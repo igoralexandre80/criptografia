@@ -1,0 +1,28 @@
+{
+  "name": "codenation-criptografia-de-julio-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "form-data": "^2.5.1",
+    "node-fetch": "^2.6.0",
+    "node-sha1": "^1.0.1",
+    "sha1": "^1.1.1"
+  }
+}
